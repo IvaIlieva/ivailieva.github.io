@@ -5,6 +5,34 @@
     <link>https://ivailieva.github.io/categories/</link>
     <description>Recent content in Categories on Iva Ilieva Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ivailieva.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ivailieva.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creativity</title>
+      <link>https://ivailieva.github.io/categories/creativity/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivailieva.github.io/categories/creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>https://ivailieva.github.io/categories/sales/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivailieva.github.io/categories/sales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>https://ivailieva.github.io/categories/marketing/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivailieva.github.io/categories/marketing/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

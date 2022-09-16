@@ -5,6 +5,34 @@
     <link>https://ivailieva.github.io/tags/</link>
     <description>Recent content in Tags on Iva Ilieva Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ivailieva.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 09:59:16 +0300</lastBuildDate><atom:link href="https://ivailieva.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tag 1</title>
+      <link>https://ivailieva.github.io/tags/tag-1/</link>
+      <pubDate>Fri, 16 Sep 2022 09:59:16 +0300</pubDate>
+      
+      <guid>https://ivailieva.github.io/tags/tag-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag 2</title>
+      <link>https://ivailieva.github.io/tags/tag-2/</link>
+      <pubDate>Fri, 16 Sep 2022 09:59:16 +0300</pubDate>
+      
+      <guid>https://ivailieva.github.io/tags/tag-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag 3</title>
+      <link>https://ivailieva.github.io/tags/tag-3/</link>
+      <pubDate>Fri, 16 Sep 2022 09:53:53 +0300</pubDate>
+      
+      <guid>https://ivailieva.github.io/tags/tag-3/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
